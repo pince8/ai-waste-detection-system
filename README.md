@@ -21,6 +21,16 @@ This project demonstrates full AI pipeline development including model integrati
 
 ---
 
+## 📸 Live Detection Results
+
+<p align="center">
+  <img src="assets/screenshots/live_detection1.png" width="250">
+  <img src="assets/screenshots/live_detection2.png" width="250">
+  <img src="assets/screenshots/live_detection3.png" width="250">
+</p>
+
+---
+
 ## 🏗️ System Architecture
 
 Mobile App (Flutter)  
