@@ -1,0 +1,6 @@
+Cardboard-Recyclable
+Glass-Recyclable
+Metal-Recyclable
+Organic-Non-Recyclable
+Paper-Recyclable
+Plastic-Recyclable
